@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GPSTestJava</string>
+    <string name="error">Прав нет</string>
+    <string name="pastTitle">Ваше местоположение:</string>
+    <string name="button">Показать мои координаты</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
 </resources>
